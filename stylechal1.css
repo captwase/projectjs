@@ -1,0 +1,42 @@
+/* Age In Days Calculator */
+.container-1{
+	border:1px solid black;
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+
+}
+.flex-box-container-1{
+	border: 1px solid black;
+	display: flex;
+	padding: 10px;
+	justify-content: space-around;
+	text-align: center;
+
+}
+.flex-box-container-1 div {
+	display: flex;
+	padding: 10px;
+	border:1px solid black;
+}
+
+
+/* Cat generator */
+.container-2{
+	border: 1px solid black;
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+
+}
+.flex-box-container-2{
+	border: 1px solid black;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+.flex-box-container-2 img{
+	margin: 10px;
+	box-shadow: 0px 10px 50px rgba(0,0,0,0.7);
+
+}
